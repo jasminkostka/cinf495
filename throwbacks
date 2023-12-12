@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="icon" href="hardrock.jpg">
+<meta charset="utf-8"/>
+<link href="cjz_styles.css" rel="stylesheet" />
+<title>Throwbacks</title>
+</head>
+
+
+
+<body>
+	<header>
+		<a  href="cjz.html"> <img class="logo" src="hardrock.jpg" alt="HardRock"/> </a>
+		<nav>
+			<ul>
+				<li> <a href="cjz.html" >Home</a> </li>
+				<li> <a href="populargroups.html" >Popular Groups</a> </li>
+				<li> <a href="throwbacks.html" >Throwbacks</a> </li>
+				<li> <a href="about.html" >About</a> </li>
+			</ul>
+		</nav>
+	</header>
+
+
+	<section>
+	<h1>Throwbacks</h1>
+	<p>
+	<strong>Dancing</strong> to kpop that has catchy beats and tunes is fun. K-pop can be super cute or edgy, it can also be grounded in hip hop sounds and elements. 
+	Boy and girl groups do have a different style at time though.
+
+For boy groups or artists(I am not saying that girl groups or singers don’t do this but they tend not to unless they are really hip hop or dance based
+
+Hip- Hop This will definitely be a very typical one because pop especially kpop can be very loud at times and this really suits the music
+
+Break dancing b-boying I guess less of this because it does require a lot of energy and has a really high risk of injury, however some groups do incorporate it into their dances for a wow factor
+
+urban dance
+
+modern dance
+
+street dance at times too.
+
+For girl groups or artists:
+
+Hip-Hop Groups like Blackpink definitely do use this style of dance and other other dance centric artists
+
+Modern dance Usually girl groups do not do break dancing so they usually stick to footwork and choreo instead
+
+
+
+
+	</p>
+	</section>
+</body>
+
+
+</html>
